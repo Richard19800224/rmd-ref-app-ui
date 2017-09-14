@@ -12,7 +12,7 @@ var config = {
 
         clientId: '2',
         clientSecret: 'MtxzZRTnDyzp3HsMtUJzDkiSJLkAdLeA0N2GbGjP',
-        serverUrl: 'http://uaaforrmd-a5o13nqj.neuseer.cn',
+        serverUrl: 'http://uaaforrmd-a5o13nqj.neuseer.c',
         redirect_uri: 'http://rmdsimonui.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
