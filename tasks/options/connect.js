@@ -10,10 +10,10 @@ var config = {
    */
     uaa: {
 
-        clientId: '1',
-        clientSecret: '12345',
-        serverUrl: 'http://uaa.i.saasapps.cn',
-        redirect_uri: 'http://rmd.i.saasapps.cn/callback',
+        clientId: '2',
+        clientSecret: 'MtxzZRTnDyzp3HsMtUJzDkiSJLkAdLeA0N2GbGjP',
+        serverUrl: 'http://uaaforrmd.neuseer.cn',
+        redirect_uri: 'http://rmdsimonui.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
